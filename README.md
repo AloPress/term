@@ -1,2 +1,2 @@
-# ee.mdm.Term
-Avatud lähtekoodiga mobiilseadmete keskhalduse leksikon
+# Mobiilseademte haldus erialane leksikon
+Avatud lähtekoodiga mobiilseadmete keskhalduse leksikon.
