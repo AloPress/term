@@ -1,10 +1,14 @@
 {  
-    "term": {  
-        "abbreviation en":  "e.g.",
-        "abbreviation et":  "nt",
-        "term en":          "example",   
-        "term et":          "näide",
+    "example": {
+        "abbreviation":{
+                "en":  "e.g.",
+                "et":  "nt",
+            }
+        "term":{
+                "term en":          "example", 
+                "term et":          "näide",
+            } 
         "definition":       "üksiknähtus (ese, olend, fakt, sündmus jne.) millegi üldisema ilminguna, esinemisjuhuna, tõendina.",
-        "source":           "EKSS"
+        "source":           ["EKSS"]
     }  
 }  
