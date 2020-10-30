@@ -1,5 +1,5 @@
-# Mobiilseadmete halduse erialane leksikon
-Avatud lähtekoodiga mobiilseadmete keskhalduse leksikon.
+# Mobiilseadmete halduse oskussõnastik
+Avatud lähtekoodiga mobiilseadmete halduse oskussõnastik.
 
 ## Termini faili näide
 Uue termini lisamiseks kasuta example.json faili.
