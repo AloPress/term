@@ -1,0 +1,24 @@
+{  
+    "byod": {
+        "abbreviation": {"en":  "byod","et":  "vosk"},
+        "term":         {"en": "bring your own device", "et": "võta oma seade kaasa"},
+        "definition":   "poliitikasäte, mis lubab töö- või õppekohal kasutada isiklikke (mobiil)seadmeid",
+        "source":       "AKIT. (2020). http://url"
+    }, 
+    "mdm": {  
+        "abbreviation en":  "mdm",
+        "abbreviation et":  "",
+        "term en":          "mobile device management",   
+        "term et":          "mobiilseadmete haldus",
+        "definition":       "Mobiilseademte haldussüsteem",
+        "source":           ""
+    }, 
+    "sms": {  
+        "abbreviation en":  "sms",
+        "abbreviation et":  "sms",
+        "term en":          "short message service",   
+        "term et":          "lühisõnum",
+        "definition":       "mobiilisõnumi edastamise süsteem; mobiilisõnum, SMS-sõnum.",
+        "source":           "EKSS"
+    } 
+} 
