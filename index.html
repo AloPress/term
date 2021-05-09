@@ -1307,10 +1307,10 @@ $('#txt-search').keyup(function(){
 			  $.each(data, function(key, val){
 				if ((val.Acronym.search(regex) != -1) || (val.Explicative.search(regex) != -1)) {
 				  output += '<div class="col-md-12 well">';
-				  output += '<h5>' + val.Acronym + '</h5>';
+				  output += '<h3>' + val.Acronym + '</h3>';
 				  output += '<p>' + val.Explicative + '</p>';
 				  output += '<p>' + val.Definitition + '</p>';
-				  output += '<h5>' + val.Luhend + '</h5>';
+				  output += '<h3>' + val.Luhend + '</h3>';
 				  output += '<p>' + val.Tahendus + '</p>';
 				  output += '<p>' + val.Kirjeldus + '</p>';
 				  output += '</div>';
