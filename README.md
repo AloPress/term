@@ -9,5 +9,3 @@ Projekt katab esialgu järgmised valdkonnad
 - Tarkvara arendus
 - Telekommunikatsioon
 - Operatsioonisüsteem
-
-Alo Press 2021
