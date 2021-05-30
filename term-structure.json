@@ -1,0 +1,13 @@
+{  
+    "byod": {
+        "acronym-en"    :   "BYOD",
+        "explative-en"  :   "Bring Your Own Device",
+        "definition-en" :   "Strategy for enterpises to allow employee owned devices for work purposes.",
+        "source-en"     :   "",
+        "acnroym-et"    :   "VOSK",
+        "expltive-et"   :   "Võta Oma Seade Kaasa",
+        "definition-et" :   "Tule oma seadmega Poliitika, mis lubab töötajatel või õpilastel kasutada oma isiklikke sülearvuteid, tahvelarvuteid, nutitelefone jms nii kodus kui ka tööl ja koolis (Vallaste,",
+        "source-et"        :   "(Vallaste, n.d.)",
+        "updated"       :   "2021-05-30"
+    }
+} 
