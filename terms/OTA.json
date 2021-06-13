@@ -1,0 +1,13 @@
+{  
+    "byod": {
+        "acronym-en"    :   "OTA",
+        "explative-en"  :   "Over The Air",
+        "definition-en" :   "Over-the-air is any method of making data transfers or transactions wirelessly using the cellular network instead of a cable or other local connection.",
+        "source-en"     :   "GSM Arena, n.d.",
+        "acnroym-et"    :   "",
+        "expltive-et"   :   "Üle Õhu",
+        "definition-et" :   "Üle õhu tarkvara laialijagamine, näiteks tarkvarauuendus operaatorilt mobiilseadmele",
+        "source-et"     :   "Vikipeedia, n.d, https://et.wikipedia.org/wiki/OTA",
+        "updated"       :   "2021-05-30"
+    }
+}
