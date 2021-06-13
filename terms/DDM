@@ -1,0 +1,13 @@
+{  
+    "byod": {
+        "acronym-en"    :   "DDM",
+        "explative-en"  :   "Declarative Device Management",
+        "definition-en" :   "Declarative management allows the device to be autonomous and proactive, freeing up the server to be lightweight, reactive, and subscribe to updates without constant polling.",
+        "source-en"     :   "Apple, 2021 https://developer.apple.com/videos/play/wwdc2021/10131",
+        "acnroym-et"    :   "DSH",
+        "expltive-et"   :   "Deklaratiivne Seadme Haldus",
+        "definition-et" :   "Deklaratiivne haldus meetod.",
+        "source-et"     :   "Press 2021",
+        "updated"       :   "2021-05-30"
+    }
+}
