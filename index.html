@@ -7,14 +7,14 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
     <script src="data.js"></script>
-    <title>Nutisõnastik</title>
+    <title>Glossary</title>
 </head>
 
 <body style="overflow-y: scroll">
 <div class="container" style="padding-top: 50px; padding-bottom: 50px;">
     <div class="row">
         <div class="col-xs-12 col-md-6 col-md-offset-3">
-            <h1>Nutisõnastik</h1>
+            <h1>Mobile Device Glossary</h1>
         </div>
     </div>
     <div class="row">
@@ -63,9 +63,6 @@
                     outputCol.append('<h3>' + val.Acronym + '</h3>');
                     outputCol.append('<p>' + val.Explicative + '</p>');
                     outputCol.append('<p>' + val.Definitition + '</p>');
-                    outputCol.append('<h3>' + val.Lühend + '</h3>');
-                    outputCol.append('<p>' + val.Tähendus + '</p>');
-                    outputCol.append('<p>' + val.Kirjeldus + '</p>');
 
                     // add result to display list
                     output.append(outputCol)
