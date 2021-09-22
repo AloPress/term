@@ -1,12 +1,15 @@
-# Nutiseadmete oskussõnastik
+# Mobile Glossary
 
-Nutiseadmete oskussõnastik on projekt mille eesmärk on eestistada nutiseadmete valdkonnaga seotud terminoloogiat.
+A project aiming to gather a comperhensive glossary about various mobile related fields. 
 https://alopress.github.io/term/
 
-Projekti eesmärk on jõudumööda lisada sõnu järgmistest valdkondadest
-- Seadme haldus
-- Kriminalistika
-- Küberturvalisus
-- Tarkvara arendus
-- Telekommunikatsioon
-- Operatsioonisüsteem
+Currently trying to cover the following:
+- Mobile forensics
+- Mobille security
+- Mobile development
+- Telecommunications
+- Operating system
+- Mobile hardware
+- MAM, MDM and EMM
+
+Invaluable resources to the project are NIST publications and TechTarget Definitions.
