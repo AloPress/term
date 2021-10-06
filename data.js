@@ -1,5 +1,25 @@
 var data = [
   {
+    "Acronym": "DAS",
+    "Explicative": "Duet Activity Scheduler",
+    "Definitition": "maintains a scored list of background activities which usually consists of more than seventy items"
+  },
+  {
+    "Acronym": "GCD",
+    "Explicative": "Grand Central Dispatch",
+    "Definitition": ""
+  },
+  {
+    "Acronym": "APFS",
+    "Explicative": "Apple File System",
+    "Definitition": "is a proprietary file system developed and deployed by Apple Inc"
+  },
+  {
+    "Acronym": "CTS",
+    "Explicative": "Centralized Task Scheduling",
+    "Definitition": ""
+  },
+  {
     "Acronym": "2G",
     "Explicative": "2nd Generation",
     "Definitition": ""
