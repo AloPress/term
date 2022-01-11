@@ -1,5 +1,10 @@
 var data = [
   {
+    "Acronym": "AEM",
+    "Explicative": "Apple Enterprise Management",
+    "Definitition": "helps organizations best connect, manage and protect their entire fleet of Mac, iPad, iPhone and Apple TV devices"
+  },
+  {
     "Acronym": "DAS",
     "Explicative": "Duet Activity Scheduler",
     "Definitition": "maintains a scored list of background activities which usually consists of more than seventy items"
